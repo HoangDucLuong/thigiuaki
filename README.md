@@ -1,7 +1,7 @@
 ## Thi giua ky NodeJs
 ## How to run this?
 
-`git clone https://github.com/Anhle138795/thigiuaki.git`
+`git clone https://github.com/HoangDucLuong/thigiuaki`
 
 # create:
 
@@ -21,11 +21,11 @@
 
 # delete by id:
 
-`npx ts-node src/index.ts update --id "0.8273965822811677"`
+`npx ts-node src/index.ts update --id "0.6340606835880205"`
 
 # update by id:
 
-`npx ts-node src/index.ts update --id "0.8273965822811677" --title "138795" --description "Bai nay khong kho lam 🐧"`
+`npx ts-node src/index.ts update --id "0.6340606835880205" --title "111111111" --description "luong dep trai"`
           
 
 
